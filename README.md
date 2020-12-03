@@ -15,6 +15,7 @@ pip3 install numpy opencv-python pyserial
 
 Circuit Digram:
 
+<br>
 <img src"./LDR and RGB LED_bb.png"/>
 
 
