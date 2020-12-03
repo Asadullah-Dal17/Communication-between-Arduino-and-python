@@ -13,3 +13,9 @@ pip install opencv-python numpy pyserial
 ## Install on Linux or Mac
 pip3 install numpy opencv-python pyserial
 
+Circuit Digram:
+
+<img src"./LDR and RGB LED_bb.png"/>
+
+
+
